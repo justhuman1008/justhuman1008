@@ -12,7 +12,6 @@
  - **디자인/UI** - 깔끔하게 생긴 사이트나 프로그램을 한번씩 보면 ~~해본적은 없지만~~ 나도 저렇게 한번 만들어보고 싶다는 욕구가 생기네요.
 
 ## 만든거
- - [JustBot](https://github.com/justhuman1008/JustBot) - 잡다한 기능 여러개 들어간 디스코드봇
  - [hcskr_bot](https://github.com/justhuman1008/hcskr_bot) - [hcs-python](https://github.com/covid-hcs/hcs-python)을 이용한 자가진단 자동화 디스코드봇
 
 ## Stats
