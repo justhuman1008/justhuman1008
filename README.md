@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3ba4dd?style=for-the-badge&logo=python&logoColor=015)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7d62d?style=for-the-badge&logo=javascript&logoColor=440)
 
-~~공부할 시간에~~ 취미로 얕은 지식으로 ~~구글링한 코드 수정~~ 개발하는 특성화고등학교 2학년입니다.
+~~공부할 시간에~~ 취미로 얕은 지식으로 ~~구글링한 코드 수정~~ 개발하는 특성화고등학교 3학년입니다.
 
 ## 관심사
  - **프로그래밍** - 카카오톡 자동응답으로 자바스크립트를 겪고 이후에 디스코드봇을 만들려 파이썬을 좀 배웠?습니다.   
